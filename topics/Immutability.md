@@ -6,7 +6,7 @@
 
 - **multithread safety**
 
-  ![multithreading and immutability](/Users/sti/Development/knowledge-index/sources/Refactoring to Immutability - Kevlin Henney/multithreading-immutability.png)
+  ![multithreading and immutability](../sources/Refactoring to Immutability - Kevlin Henney/multithreading-immutability.png)
 
 # Immutable value
 
