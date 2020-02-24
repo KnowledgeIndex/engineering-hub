@@ -13,6 +13,7 @@
 -  [Testing.md](topics/Testing.md) 
 -  [Tooling yarn.md](topics/Tooling yarn.md) 
 -  [Typescript - Language features.md](topics/Typescript - Language features.md) 
+-  [Cloud - Application lifecycle.md](topics/Cloud - Application lifecycle.md) 
 
 # Promoted sources
 

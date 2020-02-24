@@ -1,3 +1,38 @@
+# Language features
+
+1. Arrows: These are a function which is described by the ‘=>’ syntax
+2. Objects: Object literals are used to support the prototype assignments.
+3. Classes: ES6 classes can be easily implemented over the prototype based object oriented pattern
+4. Destructing: It allows binding pattern which is based primarily on the pattern matching.
+5. String interpolation
+6. Default - default values to function arguments
+7. Spread
+8. Module Loaders
+9. Weak set - collections of objects only and not of arbitrary values of any type. References to objects in the collection are held weakly. If there is no other reference to an object stored in the WeakSet, they can be garbage collected. That also means that there is no list of current objects stored in the collection. WeakSets are not enumerable.
+10. Map
+    1. Difference between Map & play object used for key/value
+       1. Accidental Keys
+          1. Map: A `Map` does not contain any keys by default. It only contains what is explicitly put into it.
+          2. Plain Object: An `Object` has a prototype, so it contains default keys that could collide with your own keys if you're not careful.
+       2. Key Types
+          1. Map: A `Map`'s keys can be any value (including functions, objects, or any primitive).
+          2. Plain Object: The keys of an `Object` must be either a [`String`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String) or a [`Symbol`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol).
+       3. Key Order
+          1. Map: The keys in `Map` are ordered. Thus, when iterating over it, a `Map` object returns keys in order of insertion.
+          2. Plain Object: The keys of an `Object` are not ordered
+       4. Size
+          1. Map: The number of items in a `Map` is easily retrieved from its [`size`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map/size) property.
+          2. Plain Object: The number of items in an `Object` must be determined manually
+       5. Iteration
+          1. Map: A `Map` is an [iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/iterable), so it can be directly iterated.
+          2. Plain Object: Iterating over an `Object` requires obtaining its keys in some fashion and iterating over them.
+       6. Performance
+          1. Map: Performs better in scenarios involving frequent additions and removals of key-value pairs.
+          2. Plain Object: Not optimized for frequent additions and removals of key-value pairs.
+11. Promises
+12. Proxies
+13. Multiline string literals
+
 # Event loop
 
 The event loop is basically a mechanism which has certain phases through which it iterates
@@ -231,3 +266,9 @@ console.table(user);
 - [Asynchronous Iterators](https://dev.to/jfet97/javascript-iterators-and-generators-asynchronous-iterators-28b8)
 - [Asynchronous Generators](https://dev.to/jfet97/javascript-iterators-and-generators-asynchronous-generators-2n4e)
 - [Understanding the Node.js event loop phases and how it executes the JavaScript code.md](../sources/Understanding the Node.js event loop phases and how it executes the JavaScript code/Understanding the Node.js event loop phases and how it executes the JavaScript code.md)
+- [Difference Between ES6 vs ES5.md](../sources/Difference Between ES6 vs ES5/Difference Between ES6 vs ES5.md)
+
+# External resources
+
+- [[MDN] Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+
