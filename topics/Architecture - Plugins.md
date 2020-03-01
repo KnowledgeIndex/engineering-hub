@@ -27,3 +27,4 @@ Plugins aren't good in every scenario. In particular, they can only  be designed
 # Resources
 
 -   [Plugin systems - when and why - dev.to](../sources/Plugin systems - when and why - dev.to/Plugin systems - when and why - dev.to.md) 
+

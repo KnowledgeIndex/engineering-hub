@@ -15,7 +15,11 @@
 -  [Typescript - Language features.md](topics/Typescript - Language features.md) 
 -  [Cloud - Application lifecycle.md](topics/Cloud - Application lifecycle.md) 
 
+# Checklists
+
+- [Rewrite or Refactor](checklists/rewrite-or-refactor.md)
+
 # Promoted sources
 
--  [promoted-sources.md](promoted-sources.md) 
+-  [promoted-sources](promoted-sources.md) 
 
