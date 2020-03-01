@@ -138,6 +138,20 @@ Therefore, code reviewers can move from relying on test coverage to thinking abo
 3. Are we testing all of the conditionals in the code?
 4. Are we writing small functions so we can reduce our testing surface area and create solid boundaries?
 
+# Test Double types
+
+## Fake
+
+Objects that actually have working implementations, but usually take some shortcut which makes them not suitable for production. Ex: inmemory database which is not resilent to crashes
+
+## Stubs
+
+They provide canned answers to calls made during the test, usually not  responding at all to anything outside what's programmed in for the test. Stubs may also record information about calls, such as an email gateway stub that remembers the messages it 'sent', or maybe only how many  messages it 'sent'.
+
+## Mocks
+
+Objects pre-programmed with  expectations which form a specification of the calls they are expected  to receive.
+
 # Resources
 
 -  [How to add testing to an existing project](../sources/How to add testing to an existing project/How to add testing to an existing project.md)
