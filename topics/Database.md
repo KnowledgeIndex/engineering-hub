@@ -20,5 +20,5 @@ In databases that  possess durability, data is saved once a transaction is compl
 
 # Resources
 
--   [What is ACID Compliance.md](../sources/What is ACID Compliance/What is ACID Compliance.md) 
+-   [What is ACID Compliance](../sources/What is ACID Compliance/What is ACID Compliance.md)
 
