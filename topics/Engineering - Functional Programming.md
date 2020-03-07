@@ -31,3 +31,5 @@ Maybe('Maybe Foo').map(log); // logs "Maybe Foo"
 - [Refactoring to Immutability - Kevlin Henney](../sources/Refactoring to Immutability - Kevlin Henney)
 - [Handling null and undefined in JavaScript](../sources/Handling null and undefined in JavaScript)
 - [Functional architecture - The pits of success - Mark Seemann](../sources/Functional architecture - The pits of success - Mark Seemann/Functional architecture - The pits of success - Mark Seemann.md) 
+- [An overview of programming paradigms](../sources/An overview of programming paradigms/An overview of programming paradigms.md)
+
