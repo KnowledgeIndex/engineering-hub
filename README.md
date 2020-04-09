@@ -9,6 +9,7 @@
 -  [Cloud - Containerisation](topics/Cloud - Containerisation.md)
 -  [Database](topics/Database.md)
 -  [Engineering - Functional Programming](topics/Engineering - Functional Programming.md) 
+-  [Engineering - Coding practices](topics/Engineering - Coding practices.md)
 -  [Engineering](topics/Engineering.md) 
 -  [GraphQL](topics/GraphQL.md) 
 -  [Immutability.md](topics/Immutability.md) 
