@@ -1,4 +1,4 @@
-# [View deployed GitHub pages version here](https://knowledgeindex.github.io/knowledge-index/)
+# [View deployed GitHub pages version here](https://knowledgeindex.github.io/engineering-hub/)
 
 # Topics
 
