@@ -162,3 +162,4 @@ Objects pre-programmed with  expectations which form a specification of the call
 -  [Test Coverage is a Lie](../sources/Test Coverage is a Lie/Test Coverage is a Lie.md) 
 -  [Code Coverage is Useless](../sources/Code Coverage is Useless/Code Coverage is Useless.md) 
 -  [A bug was found in Java after almost 9 years of hiding](../sources/A bug was found in Java after almost 9 years of hiding/A bug was found in Java after almost 9 years of hiding.md) 
+-  [Functional architecture - The pits of success - Mark Seemann](../sources/Functional architecture - The pits of success - Mark Seemann/Functional architecture - The pits of success - Mark Seemann.md) 
